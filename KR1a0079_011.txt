@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 周易本義集成
-#+DATE: 2015-09-23 09:34:56
-#+PROPERTY: JUAN 11
+#+DATE: 2015-08-24 21:56:48.161547
+#+PROPERTY: ID KR1a0079
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷十一 
 <pb:KR1a0079_WYG_011-1a>¶
 欽定四庫全書¶
 　周易本義集成卷十一　　元　熊良輔　撰¶
@@ -146,4 +148,3 @@
 　¶
 　¶
 　周易本義集成卷十一¶
-
